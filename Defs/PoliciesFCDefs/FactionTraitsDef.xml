@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FactionColonies.PolicyFCDef>
+		<defName>theNewPioneers</defName> <!--Name of Def -->
+		<label>The New Pioneers</label> <!--Lable of Def -->
+		<desc>A faction that aims to constantly expand their borders. -10% settlement cost.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>theNewPioneers</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+	
+	<FactionColonies.PolicyFCDef>
+		<defName>mercenaries</defName> <!--Name of Def -->
+		<label>Mercenaries</label> <!--Lable of Def -->
+		<desc>A faction whose populace has a large amount of past or current mercenaries within. +25% combat efficiency, +$10 worker cost.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>mercenaries</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+	
+	<FactionColonies.PolicyFCDef>
+		<defName>expertCraftsmen</defName> <!--Name of Def -->
+		<label>Expert Craftsmen</label> <!--Lable of Def -->
+		<desc>A faction with a large number of skilled craftsmen in their ranks. +25% production to apparel and weapons.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>expertCraftsmen</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+	
+	<FactionColonies.PolicyFCDef>
+		<defName>argiculturalRoots</defName> <!--Name of Def -->
+		<label>Argicultural Roots</label> <!--Lable of Def -->
+		<desc>A faction with a strong argicultural background. +15% production to food and +20% to animals.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>argiculturalRoots</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+	
+	<FactionColonies.PolicyFCDef>
+		<defName>researchers</defName> <!--Name of Def -->
+		<label>Researchers</label> <!--Lable of Def -->
+		<desc>A faction constantly on the verge of developing new technology. +25% research production. +$5 worker cost.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>researchers</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+	
+	<FactionColonies.PolicyFCDef>
+		<defName>miningGuild</defName> <!--Name of Def -->
+		<label>Mining Guild</label> <!--Lable of Def -->
+		<desc>A faction with a strong culture of miners in its history. +20% bonus to mining.</desc> <!-- Description of trait -->
+		<cost>0</cost>
+		<type>factionTrait</type> <!-- only displays with specific type: taxPolicy, socialPolicy, militaryPolicy, factionTrait, settlementTrait -->
+		<techLevel>Undefined</techLevel>
+		<enactDuration>300000</enactDuration> <!-- Ticks it takes until construction is finished -->
+		<traits>
+			<li>miningGuild</li>
+		</traits>
+	</FactionColonies.PolicyFCDef>
+	
+</Defs>
