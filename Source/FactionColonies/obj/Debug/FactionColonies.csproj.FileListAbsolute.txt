@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColonies\Assemblies\FactionColonies.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColonies\Source\FactionColonies\obj\Debug\FactionColonies.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColonies\Source\FactionColonies\obj\Debug\FactionColonies.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColoniesDev\Assemblies\FactionColonies.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColoniesDev\Source\FactionColonies\obj\Debug\FactionColonies.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionColoniesDev\Source\FactionColonies\obj\Debug\FactionColonies.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Empire\Assemblies\FactionColonies.dll
