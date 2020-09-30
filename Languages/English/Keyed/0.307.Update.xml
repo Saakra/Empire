@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<OverwhelmingVictory>Overwhelming Victory</OverwhelmingVictory>
+<OverwhelmingVictoryDesc>Due to your military force's overwhelming victory, the military force is still available for deployment.</OverwhelmingVictoryDesc>
+<TaxesFromSettlementAreBeingDelivered>Taxes from {0} are en-route to your tax collection point!</TaxesFromSettlementAreBeingDelivered>
+<DueFC>Due</DueFC>
+<ResearchExpended>{0} points of research have been used to research {1}. You have {2} points remaining.</ResearchExpended>
+<ResearchPointsExpended>Research Expended</ResearchPointsExpended>
+<NoResearchExpended>No research has been used today. You have {0} points remaining.</NoResearchExpended>
+<PointsAddedToResearchPool>{0} points have been added to the research pool!</PointsAddedToResearchPool>
+<SetAsEmpirePowerOutput>Set as Empire Power Output</SetAsEmpirePowerOutput>
+<SetAsOutput>Set Power Output</SetAsOutput>
+<SetAsOutputSuccess>The transformer has been set as the power output for your settlements!</SetAsOutputSuccess>
+<NumberTaxesHasBeenSolved>{0} bills have been auto-resolved!</NumberTaxesHasBeenSolved>
+<PrisonersMenu>Prisoners</PrisonersMenu>
+<FCWorkload>workload</FCWorkload>
+<FCHeavy>heavy</FCHeavy>
+<FCMedium>medium</FCMedium>
+<FCLight>light</FCLight>
+<FCHeavyExplanation>Adds +2 to worker soft cap (Max Workers Before Scaling Costs). Reduces health by 20.</FCHeavyExplanation>
+<FCMediumExplanation>Adds +1 to worker soft cap (Max Workers Before Scaling Costs). Reduces health by 10.</FCMediumExplanation>
+<FCLightExplanation>Adds +1 to worker hard cap (Over-Max Workers). Increases health by 4</FCLightExplanation>
+<Actions>Actions</Actions>
+<SellPawn>Sell Pawn</SellPawn>
+<ReturnToPlayer>Return To Player</ReturnToPlayer>
+<SellPawnInfo>Value will be added to next bill from colony</SellPawnInfo>
+<ViewInfo>View Info</ViewInfo>
+<PrisonerHasDiedLetter>Prisoner Has Died</PrisonerHasDiedLetter>
+<PrisonerHasDied>{0} at {1} has died from overworking</PrisonerHasDied>
+<TaxDeliveryMap>Tax Delivery Map</TaxDeliveryMap>
+<Military>Military</Military>
+<SetMap>Set Map</SetMap>
+<ActivateResearch>Activate Research</ActivateResearch>
+<PrisonerCaptureInfo>Prisoner: {0} has been enslaved and delivered to {1}</PrisonerCaptureInfo>
+<GoodsReceived>Goods Received</GoodsReceived>
+<GoodsReceivedFollowing>You have received the following goods from the {0} event:</GoodsReceivedFollowing>
+
+<!-- Updated the following defs  -->
+<!--     Building - Research Labs & Glitterworld Research Facility    -->
+<!--     Social Policy - Science blah blah   &  Faction trait - Researchers     -->
+
+</LanguageData>
