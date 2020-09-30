@@ -5,4 +5,6 @@ The Community Development branch is the branch in which community updates will b
 
 I am relatively new to GitHub, so if you have any advice or suggestions, please do leave me a message on the discord server and @me!
 
+To get started diving into the code, check out the FactionColonies and the FactionFC class. Those are the two most important sections of the code!
+
 https://discord.gg/f3zFQqA
